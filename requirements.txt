@@ -1,0 +1,26 @@
+
+***************/////* Step Guide How to Setup Robot FrameWork *////*****************
+
+
+
+1. Install "Robocorp Code" Extention in VS Code
+
+2. Install "Robot framework Language Server" Extention in VS Code
+
+3. Open the Command Palette: Ctrl+Shift+P (macOS: Shift+Command+P).
+
+   Select Robocorp: Create Robot.
+
+   Select a template : Extended Robot Framework template. 
+
+
+4. Select "Use workspace folder"
+
+5. Select "Create Robot anyways"
+
+   Note  =  Your Robot File is Created 
+
+
+
+
+***********************  END  ******************************************************
